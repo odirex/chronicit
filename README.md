@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to this placeholder page, bitches.
 
 You can use the [editor on GitHub](https://github.com/odirex/chronicit/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
