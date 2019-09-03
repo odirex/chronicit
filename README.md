@@ -1,9 +1,8 @@
-## Welcome to this placeholder page for Chronit IT. tech advice coming here soon.
+## Cafe Gamma
 
-You can use the [editor on GitHub](https://github.com/odirex/chronicit/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Welcome to the home page for the Quinterra campaign setting and other tabletop gaming projects by Omega Direx.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Contact the Author
 
-### Support or Contact
+Want to get in touch? Send an email to info@cafegamma.com
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
