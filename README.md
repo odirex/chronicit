@@ -1,6 +1,6 @@
 ## Chronic IT
 
-IT is a disease. I treat it.
+I.T. is a disease. I treat it.
 
 ### Contact the Author
 
