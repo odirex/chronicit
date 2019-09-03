@@ -1,7 +1,7 @@
 title: "Chronic IT"
 remote_theme: pmarsceill/just-the-docs
 color_scheme: "dark"
-search_enabled: false
+search_enabled: true
 aux_links:
     "See you at DexCon":
       - "//dexposure.com"
