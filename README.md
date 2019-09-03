@@ -1,8 +1,8 @@
-## Cafe Gamma
+## Chronic IT
 
-Welcome to the home page for the Quinterra campaign setting and other tabletop gaming projects by Omega Direx.
+IT is a disease. I treat it.
 
 ### Contact the Author
 
-Want to get in touch? Send an email to info@cafegamma.com
+Want to get in touch? Send an email to info@chronicit.com
 
