@@ -1,8 +1,3 @@
 ## Chronic IT
 
-I.T. is a disease. I treat it.
-
-### Contact the Author
-
-Want to get in touch? Send an email to info@chronicit.com
-
+This is a repository of tech support info maintained by an industry professional.
