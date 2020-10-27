@@ -1,3 +1,9 @@
+---
+title: Tech Support
+has_children: false
+nav_order: 1
+---
+
 # Tech Support
 
 ## Cleanup
